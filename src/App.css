@@ -22,6 +22,14 @@
 .App-link {
   color: #61dafb;
 }
+.hotel{
+  background-color: #fce4fc;
+}
+
+p.hotel li.review{
+  background-color: #f8f8f8;
+}
+
 
 @keyframes App-logo-spin {
   from {
